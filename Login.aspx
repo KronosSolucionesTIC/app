@@ -1,4 +1,4 @@
-﻿<%@ Page enableEventValidation="false" Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="CapaPresentacion.Login" %>
+﻿<%@ Page enableEventValidation="false" Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="CapaPresentacion.Login" %>
 
 <!DOCTYPE html>
 
